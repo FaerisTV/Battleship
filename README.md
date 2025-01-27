@@ -1,2 +1,2 @@
 # Battleship
- Jeux vidéo dans la console de Bataille Navale
+Ce projet consiste en un jeu vidéo de bataille navale jouable directement dans une console. Il permet au joueur de s'opposer à un adversaire contrôlé par un ordinateur. La gestion de la logique et des échanges se fait à travers un serveur TCP, qui assure la communication entre les différents composants du jeu. Ce système permet une expérience immersive tout en exploitant les mécanismes réseau.
